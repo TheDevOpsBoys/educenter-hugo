@@ -134,10 +134,10 @@ address = "9567 Turner Trace Apt. BC C3G8A4"
 author = "Themefisher"
 contact_form_action = "#"
 description = "This is meta description"
-email = "info@educenter.com"
+email = "info111@educenter.com"
 google_analitycs_id = ""
 logo = "images/logo.png"
-mobile = "+211234565523"
+mobile = "+1 234 567-8900"
 top_header = true
 [params.cookies]
 enable = true
